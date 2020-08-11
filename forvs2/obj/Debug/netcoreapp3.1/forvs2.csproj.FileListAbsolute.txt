@@ -1,0 +1,12 @@
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\bin\Debug\netcoreapp3.1\forvs2.exe
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\bin\Debug\netcoreapp3.1\forvs2.deps.json
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\bin\Debug\netcoreapp3.1\forvs2.runtimeconfig.json
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\bin\Debug\netcoreapp3.1\forvs2.runtimeconfig.dev.json
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\bin\Debug\netcoreapp3.1\forvs2.dll
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\bin\Debug\netcoreapp3.1\forvs2.pdb
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\obj\Debug\netcoreapp3.1\forvs2.AssemblyInfoInputs.cache
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\obj\Debug\netcoreapp3.1\forvs2.AssemblyInfo.cs
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\obj\Debug\netcoreapp3.1\forvs2.csproj.CoreCompileInputs.cache
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\obj\Debug\netcoreapp3.1\forvs2.dll
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\obj\Debug\netcoreapp3.1\forvs2.pdb
+D:\VisualStudioProgram\source\repos\forVS2\forvs2\forvs2\obj\Debug\netcoreapp3.1\forvs2.genruntimeconfig.cache
